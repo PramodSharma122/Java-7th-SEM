@@ -5,7 +5,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class Greatestnum {
-    Greatestnum(){
+    Greatestnum() {
         JFrame jframe = new JFrame("Greatest of Three Numbers");
 
         JLabel lblFirst = new JLabel("First Number:");
